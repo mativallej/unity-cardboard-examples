@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb313f5a161076846b0491f1024b237e, type: 3}
+  m_Name: GemDataBad_B1
+  m_EditorClassIdentifier: 
+  gemName: bad_red
+  gemType: 1
+  gemPoint: 2
+  gemActiveMaterial: {fileID: 2100000, guid: fc0db18fd3f9eb64eb65bcca1cabda8f, type: 2}
+  gemInactiveMaterial: {fileID: 2100000, guid: 0f2494af4b1dedf43a6154f240a9d1ac, type: 2}
+  gemMotionName: explosion
+  gemMotionGo: {fileID: 4575224159525537427, guid: 9c2ddea539f6a8f44a98688258a06ed2, type: 3}
+  smoothTimeFactor: 20
+  smoothDragGravity: 10
+  _minScale: 0.4
+  _maxScale: 0.6

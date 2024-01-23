@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb313f5a161076846b0491f1024b237e, type: 3}
+  m_Name: GemDataGood_G2
+  m_EditorClassIdentifier: 
+  gemName: good_green
+  gemPoint: 3
+  gemActiveMaterial: {fileID: 2100000, guid: 6bc9243238fd4cf46bbf17b460b0d60d, type: 2}
+  gemInactiveMaterial: {fileID: 2100000, guid: 09b8590c8ecee5e4fb5d926be926e162, type: 2}
+  gemMotionName: explosion
+  gemMotionGo: {fileID: 3452401506603896833, guid: 38710ba9f9a757c4e8a47b43c4f6da2a, type: 3}
+  smoothTimeFactor: 15
+  smoothDragGravity: 7
+  _minScale: 0.4
+  _maxScale: 0.6
